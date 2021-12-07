@@ -4,4 +4,4 @@ Análise de dados simples em Python dos países que mais receberam medalhas nas 
 - Os 10 países que mais ganharam medalhas de ouro;
 - Os 10 países que mais ganharam medalhas de prata;
 - Os 10 países que mais ganharam medalhas de bronze;
-- Desenvido em Python usando o Google Colab;
+- Desenvolvido em Python usando o Google Colab;
